@@ -1,0 +1,1 @@
+# aSc-Timetables-No-Trial
